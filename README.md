@@ -80,6 +80,7 @@ Members who pursued research internships at **IITs and other premier institutes*
 | Sheena | IIT Roorkee | Deep Learning | Jul – Oct | 2025 |
 | Naitik Pal | IIT Mandi | CV / Deepfake Detection | May – Jul | 2026 |
 | Mayank Joshi | IIT Ropar | RL / NLP | May – Jul | 2026 |
+| Sreekar | IIT Mandi | RL based UAV-AGV Tracking | May – Jul | 2026 |
 | N. Sri Krishna | IIT Mandi | CV / Multi-Modal AI | Jan – Jun | 2026 |
 | Shivansh Pandey | IIT Mandi | CV / Multi-Modal | Jan – Jun | 2026 |
 | Ashmeet Sandhu | IIT Mandi | Medical AI | Dec – May | 2026 |
