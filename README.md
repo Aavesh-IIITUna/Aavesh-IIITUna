@@ -106,7 +106,7 @@ Members interning at companies and startups, gaining hands-on industry exposure.
 | Aditya Pandey | RivoMind | AI Engineer Intern | Jun – Aug | 2026 |
 | Pranav Garg | ModelSuite.ai & DevTeam IIITU | Full Stack Developer Lead | Feb – Aug | 2026 |
 | Ujjawal Mishra | Triomics | NLP Research Intern | Apr – Present | 2026 |
-| Yuvraj Singh Chauhan | DevTeam IIITU | Backend and DevOps Lead | 2025 |
+| Yuvraj Singh Chauhan | DevTeam IIITU | Backend and DevOps Lead | March - Present | 2025 - 2026 |
 | Naitik Pal | Reagvis Labs | AI Research Intern | Jan – Aug | 2026 |
 | Agrim | DevTeam IIITU | Web Developer | Present | 2026 |
 | Anurag | DevTeam IIITU | Web Developer | Present | 2026 |
