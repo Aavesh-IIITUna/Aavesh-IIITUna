@@ -85,6 +85,7 @@ Members who pursued research internships at **IITs and other premier institutes*
 | Shivansh Pandey | IIT Mandi | CV / Multi-Modal | Jan – Jun | 2026 |
 | Ashmeet Sandhu | IIT Mandi | Medical AI | Dec – May | 2026 |
 | Shashi Bhushan Raj | IIT BHU | Edge AI / Healthcare AI | May – Jul | 2026 |
+| Vanshiv Garg | IIT Guwahati | CV Data Annotations | July – Sep | 2026 |
 
 
 </div>
