@@ -131,6 +131,7 @@ Contributions from Aavesh members to open-source projects — big or small, ever
 | Deep Shekhar | apache/apisix-dashboard | Added end-to-end tests covering Services listing, pagination, and CRUD workflows with required and full configurations | [PR #3258](https://github.com/apache/apisix-dashboard/pull/3258) | Software Testing / QA |
 | Yuvraj Singh Chauhan | OpenHands/OpenHands | Implemented Tree-sitter AST-based semantic code chunking to split source files along logical boundaries within max chunk sizes | [PR #14699](https://github.com/OpenHands/OpenHands/pull/14699) | Code Intelligence / Developer Tools |
 | Pranav Garg | koala73/worldmonitor | Fixed multiple API security & correctness issues — spoofable rate limiting, unbounded inputs, SSRF redirect validation, broad origin matching | [PR #1013](https://github.com/koala73/worldmonitor/pull/1013) | Cybersecurity / API Security |
+| Mayank Joshi | OpenHands/OpenHands | Refactored `createConversation` to use a typed options object instead of 11 positional parameters, updating callers and tests | [PR #16500](https://github.com/OpenHands/OpenHands/pull/16500) | Developer Tools / Software Engineering |
 
 </div>
 
